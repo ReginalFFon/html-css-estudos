@@ -73,6 +73,16 @@ body {
     color: white;
     font-size: 30px;
     text-transform: uppercase;
+    cursor: pointer;
+}
+
+.form-cta button::after {
+    content: '';
+    display: inline-block;
+    width: 10px;
+    height: 20px;
+    background: url(../img/seta.svg);
+    margin-left: 20px;
 }
 
 .main p {
