@@ -1,2 +1,2 @@
-# html-css-estudos
-my beginner projects while I'm getting into coding. 
+# netflix-homepage-clone-css html
+My first project using pure html & css to clone the Netflix homepage. 
